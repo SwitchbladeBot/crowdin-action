@@ -1,0 +1,8 @@
+name: 'Crowdin'
+description: 'GitHub Action to interact with the Crowdin CLI'
+runs: 
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'globe'
+  color: 'green'
